@@ -1,1 +1,1 @@
-print("Olá Mundo!")
+print("Se você está atravessando um inferno, bem, continue atravessando")
